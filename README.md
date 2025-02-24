@@ -77,4 +77,3 @@ node server.js
 
 - **Endpoint:** `GET /api/rental-cars`
 - **Description:** Fetches a list of available rental cars, sorted by price from lowest to highest, with optional filters for year, color, steering type, and number of seats.
-```
