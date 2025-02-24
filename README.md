@@ -1,5 +1,4 @@
- 
-```markdown
+
 # NodeJS_Tasks
 
 This is a task to develop a REST API using Node.js, Express, and MongoDB, encompassing user registration, login, profile management, and rental car listings, with JWT authentication for secure access.
@@ -18,9 +17,7 @@ This is a task to develop a REST API using Node.js, Express, and MongoDB, encomp
 ## How to Run the Project?
 
 To run the project, use the following command in the terminal:
-```bash
 node server.js
-```
 
 ## API Endpoints
 
