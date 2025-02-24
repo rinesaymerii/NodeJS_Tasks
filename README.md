@@ -14,10 +14,27 @@ This is a task to develop a REST API using Node.js, Express, and MongoDB, encomp
 - Git: For version control and pushing to GitHub.
 - Postman: For testing the API endpoints during development.
 
+# Project Setup
+
+## Environment Variables
+
+To set up the environment variables, follow these steps:
+
+1. Create a `.env` file in the root directory of your project.
+2. Add the following content to the `.env` file:
+
+    ```
+    MONGO_URI=mongodb://localhost:27017
+    DB_NAME=carRental
+    JWT_SECRET=j8wE4vKxL5mN9p2dX7ZrT0yYB1sC6aFJ3oVgMQPdHU
+    ```
+
 ## How to Run the Project?
 
 To run the project, use the following command in the terminal:
 node server.js
+
+
 
 ## API Endpoints
 
